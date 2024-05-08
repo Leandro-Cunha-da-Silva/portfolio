@@ -1,10 +1,13 @@
-function funcaoBotao1() {
-  alert('Botão 1 foi clicado!');
-}
+// function funcaoBotao1() {
+//   alert('Botão 1 foi clicado!');
+// }
 
-function funcaoBotao2() {
-  alert('Botão 2 foi clicado!');
-}
+// function funcaoBotao2() {
+//   alert('Botão 2 foi clicado!');
+// }
+
+
+
 
 /* 
 Objetivo 1 - quando o usuário clicar no botão de mostrar mais deve abrir os projetos que estão escondidos no HTML.
